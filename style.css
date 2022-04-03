@@ -45,6 +45,7 @@
 
 .jumbotron {
   padding-bottom: 1rem!important;
+  border-bottom: 10px solid #017BFF;
 }
 
 .second {
@@ -52,4 +53,8 @@
 }
 .jackson {
   background-color:papayawhip;
+}
+
+a.btn:hover {
+  background-color:#017BFF;
 }
