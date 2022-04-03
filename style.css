@@ -58,3 +58,12 @@
 a.btn:hover {
   background-color:#017BFF;
 }
+
+a.dropdown-toggle:hover{
+  color:yellow!important;
+  font-weight:bold;
+}
+
+a.dropdown-item:hover {
+  font-weight:bold;
+}
