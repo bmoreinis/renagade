@@ -67,3 +67,9 @@ a.dropdown-toggle:hover{
 a.dropdown-item:hover {
   font-weight:bold;
 }
+
+@media (min-width: 576px)
+.jumbotron {
+    padding: 75px 10px 10px 10px!important;
+    border-bottom: 10px solid #017BFF;
+}
